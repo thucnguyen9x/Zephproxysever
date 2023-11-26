@@ -35,13 +35,13 @@
     "mode": "nicehash",
     "pools": [
         {
-            "url": "sg-zephyr.miningocean.org:5332",
+            "url": "hk-zephyr.miningocean.org:5332",
             "user": "ZEPHYR3F2VSB6EyqmESejMh6zuukaK3nbhUunpidJALELUwsWy4S2kZaDXKPD634uad4jYSxJHw2463Mz7NMXe8VeDiHnVasPVK42",
             "pass": "PATEAM",
             "keepalive": true,
             "nicehash": false,
             "variant": "!msr",
-            "algo": "rx/0"
+            "algo": "rx"
         }
     ],
     "retries": 2,

@@ -35,7 +35,7 @@
     "mode": "nicehash",
     "pools": [
         {
-            "url": "pool.zephyrprotocol.com:3333",
+            "url": "sg-zephyr.miningocean.org:5332",
             "user": "ZEPHYR3F2VSB6EyqmESejMh6zuukaK3nbhUunpidJALELUwsWy4S2kZaDXKPD634uad4jYSxJHw2463Mz7NMXe8VeDiHnVasPVK42",
             "pass": "PATEAM",
             "keepalive": true,
